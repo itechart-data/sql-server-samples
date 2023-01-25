@@ -1,0 +1,9 @@
+{
+	"name": "ita-wro-data-factory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a05105e-7a4d-4286-9dbc-da47a0272276",
+		"tenantId": "f8669f74-b383-4827-99ea-4fe2ea92c760"
+	}
+}
